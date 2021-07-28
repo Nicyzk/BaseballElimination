@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Nicholas Yap
+ *  Date: 28/07/2021
+ *  Description: Baseball Elimination. Score 100/100.
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.FlowEdge;
